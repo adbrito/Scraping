@@ -6,17 +6,19 @@ Se crea una clase Scraper que por medio del método extraer busca en Coursera un
 ### Ejecución
 
 
-'''
+```
 ruby main.rb
-'''
+```
+
 
 Output
-'''
+```
 *****************************************************
 Starting scraping java in Coursera.org......
 Successful scraping!!
 *****************************************************
-'''
+```
+
 
 ### Gemas utilizadas
 - Nokogiri
